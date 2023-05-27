@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+::selection {
+  color: white;
+  background: rgb(255, 0, 140);
+}
